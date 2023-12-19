@@ -1,5 +1,8 @@
-### Hi there 👋
+### Привет 👋
+Я Смыслова Наталья, fronted-разработчик.
+### Вот что я умею
 
+- [Дипломная работа](https://github.com/natalia-smyslova/fe-diploma)
 <!--
 **natalia-smyslova/natalia-smyslova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
