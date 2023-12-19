@@ -3,6 +3,9 @@
 ### Вот что я умею
 
 - [Дипломная работа](https://github.com/natalia-smyslova/fe-diploma)
+
+### Сертификат Нетологии
+- [Frontend-разработчик с нуля](https://netology.ru/backend/api/user/programs/22864/pdf_certificate)
 <!--
 **natalia-smyslova/natalia-smyslova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
