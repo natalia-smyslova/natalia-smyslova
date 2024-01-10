@@ -2,7 +2,8 @@
 Я Смыслова Наталья, frontend-разработчик.
 ### Вот что я умею
 
-- [Дипломная работа](https://github.com/natalia-smyslova/fe-diploma)
+- [Финальная дипломная работа: сайт покупки жд-билетов](https://github.com/natalia-smyslova/fe-diploma)
+- [Дипломная работа: основы JS в браузере](https://github.com/natalia-smyslova/bjs-diplom/tree/master)
 
 ### Сертификат Нетологии
 - [Frontend-разработчик с нуля](https://netology.ru/backend/api/user/programs/22864/pdf_certificate)
