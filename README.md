@@ -5,6 +5,7 @@
 - [Финальный дипломный проект: SPA на React для сервиса покупки билетов на ж/д](https://github.com/natalia-smyslova/fe-diploma)
 - [Дипломная работа: основы JS в браузере](https://github.com/natalia-smyslova/bjs-diplom/tree/master)
 - [Дипломный проект курса «Адаптивная и мобильная вёрстка» / Landing page](https://github.com/natalia-smyslova/mq-diplom/tree/main)
+- [Учебный проект Stepic «Продвинутая верстка SASS»/ Landing page](https://github.com/natalia-smyslova/landing-baloons)
 - [Домашние работы](https://github.com/natalia-smyslova/homeworks/tree/main)
 
 ### Сертификат Нетологии
