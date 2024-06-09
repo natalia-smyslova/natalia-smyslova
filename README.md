@@ -5,7 +5,8 @@
 - [Финальный дипломный проект: SPA на React для сервиса покупки билетов на ж/д](https://github.com/natalia-smyslova/fe-diploma)
 - [Дипломная работа: основы JS в браузере](https://github.com/natalia-smyslova/bjs-diplom/tree/master)
 - [Дипломный проект курса «Адаптивная и мобильная вёрстка» / Landing page](https://github.com/natalia-smyslova/mq-diplom/tree/main)
-- [Учебный проект Stepic «Продвинутая верстка SASS/CSS, адаптивная верстка»/ Landing page](https://github.com/natalia-smyslova/landing-baloons)
+- [Учебный проект Stepic «Продвинутая верстка SASS/CSS, grid, адаптивная верстка»/ Landing page](https://github.com/natalia-smyslova/game-store-landing)
+- [Учебный проект Stepic «Продвинутая верстка SASS/CSS, float, адаптивная верстка»/ Landing page](https://github.com/natalia-smyslova/landing-baloons)
 - [Стажировка в Grafista studio/Landing page](https://github.com/natalia-smyslova/vegas)
 - [Домашние работы](https://github.com/natalia-smyslova/homeworks/tree/main)
 
