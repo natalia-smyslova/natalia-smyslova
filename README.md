@@ -7,7 +7,7 @@
 По ТЗ дипломного проекта необходимо было сверстать SPA по макету в Figma, настроить роутинг, разбить проект на компоненты и сделать их интерактивными, настроить взаимодействие интерфейса с API. Дипломная работа написана с применением React/Redux
 
 - [Дипломная работа: основы JS в браузере](https://github.com/natalia-smyslova/bjs-diplom/tree/master)
-- 
+  
 По ТЗ учебного проекта была поставлена задача связать графический интерфейт с API.
 
 - [Лэндинги](https://github.com/natalia-smyslova/landings)
@@ -19,10 +19,10 @@
 На примере выполненных мной домашних работ можно посмотреть решение разных задач при помощи JS и React.
 
 ### Сертификат Нетологии
-- [Frontend-разработчик с нуля](https://netology.ru/backend/api/user/programs/22864/pdf_certificate)
+[Frontend-разработчик с нуля](https://netology.ru/backend/api/user/programs/22864/pdf_certificate)
 
 ### Сертификат Stepic
-- [Верстка и веб-разработка сайтов. Продвинутый
+[Верстка и веб-разработка сайтов. Продвинутый
 уровень Web Develop](https://stepik.org/certificate/0b7c63aa31418f382050af418a2326c742ade6c8.pdf)
 <!--
 **natalia-smyslova/natalia-smyslova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
