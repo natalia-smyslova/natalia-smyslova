@@ -18,6 +18,9 @@
 
 На примере выполненных мной домашних работ можно посмотреть решение разных задач при помощи JS и React.
 
+## Стек
+JS, React/Redux, HTML, CSS/SASS
+
 ## Сертификаты
 - [Нетология: Frontend-разработчик с нуля](https://netology.ru/backend/api/user/programs/22864/pdf_certificate)
 - [Stepic: Верстка и веб-разработка сайтов. Продвинутый
