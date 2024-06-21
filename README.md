@@ -4,10 +4,10 @@
 
 - [Финальный дипломный проект: SPA на React для сервиса покупки билетов на ж/д](https://github.com/natalia-smyslova/fe-diploma)
 - [Дипломная работа: основы JS в браузере](https://github.com/natalia-smyslova/bjs-diplom/tree/master)
-- [Дипломный проект курса «Адаптивная и мобильная вёрстка» / Landing page](https://github.com/natalia-smyslova/mq-diplom/tree/main)
-- [Учебный проект Stepic «Продвинутая верстка SASS/CSS, grid, адаптивная верстка»/ Landing page](https://github.com/natalia-smyslova/game-store-landing)
-- [Учебный проект Stepic «Продвинутая верстка SASS/CSS, float, адаптивная верстка»/ Landing page](https://github.com/natalia-smyslova/landing-baloons)
-- [Стажировка в Grafista studio/Landing page](https://github.com/natalia-smyslova/vegas)
+- [Лэндинги](https://github.com/natalia-smyslova/landings)
+
+Здесь собраны cверстанные мной самостоятельно лэндинги в рамках учебных проектов. Выбор инструментов при написании лэндингов продиктован учебными ТЗ. Все лэндинги, кроме Vegas, выполнены по макетам Figma и Photoshop.
+
 - [Домашние работы](https://github.com/natalia-smyslova/homeworks/tree/main)
 
 ### Сертификат Нетологии
