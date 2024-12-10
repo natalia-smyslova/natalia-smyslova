@@ -31,6 +31,7 @@ JS, React/Redux, HTML, CSS/SASS
 - [Нетология: Frontend-разработчик с нуля](https://netology.ru/backend/api/user/programs/22864/pdf_certificate)
 - [Stepic: Верстка и веб-разработка сайтов. Продвинутый
 уровень Web Develop](https://stepik.org/certificate/0b7c63aa31418f382050af418a2326c742ade6c8.pdf)
+- [Stepic: TypeScript для профессиональной разработки](https://stepik.org/cert/2686140)
 <!--
 **natalia-smyslova/natalia-smyslova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
