@@ -20,7 +20,7 @@ JS, React/Redux, HTML, CSS/SASS
 
 - [Домашние работы](https://github.com/natalia-smyslova/homeworks/tree/main)
 
-На примере выполненных мной домашних работ можно посмотреть решение разных задач при помощи JS и React.
+На примере выполненных мной домашних работ можно посмотреть решение разных задач при помощи JS, TS и React.
 
 - [Тестовые задания](https://github.com/natalia-smyslova/test_tasks/tree/main)
 
